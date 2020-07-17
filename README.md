@@ -7,4 +7,5 @@ Is everything okay?
 
 ## Learning goals
 
-- Useing of repository
+- Using of repository
+- Try Git push
