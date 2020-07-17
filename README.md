@@ -9,3 +9,4 @@ Is everything okay?
 
 - Using of repository
 - Try Git push
+- Try pull
